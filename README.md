@@ -1,2 +1,4 @@
 # BT2101
-NUS Module: Econometrics Modeling for Business Analytics
+Econometrics Modeling for Business Analytics
+
+Taken AY26/27 Semester 1
